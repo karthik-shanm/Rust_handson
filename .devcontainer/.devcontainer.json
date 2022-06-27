@@ -1,0 +1,8 @@
+{
+    "name": "Rust Dev Env",
+    "runArgs": ["-u", "rust"],
+    "settings": {
+        "workbench.colorTheme": "Abyss",
+        "terminal.integrate.shell.linux": "/bin/bash"
+    }
+}
