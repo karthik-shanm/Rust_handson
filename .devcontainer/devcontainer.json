@@ -1,5 +1,6 @@
 {
     "name": "Rust Dev Env",
+    "dockerFile": "Dockerfile",
     "runArgs": ["-u", "rust"],
     "settings": {
         "workbench.colorTheme": "Abyss",
