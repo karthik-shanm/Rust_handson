@@ -1,1 +1,1 @@
-FROM rust:1.61.0
+FROM rustlang/rust:nightly-alpine3.15
